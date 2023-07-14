@@ -1,0 +1,6 @@
+﻿row_id,order_id,created_at,item_name,item_cat,item_size,item_price,quantity,delivery,cust_firstname,cust_lastname,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+1,ORD_001,14-02-2022,Pepperoni,Pizza,Large,15,1,Y,Alex,Smith,34 Pinewood Avenue,,London,NW2 3SY
+2,ORD_001,14-02-2022,Garlic Bread,Side,Regular,6,2,Y,Alex,Smith,35 Pinewood Avenue,,London,NW2 3SY
+3,ORD_001,14-02-2022,Caesar Salad,Side,Regular,7,1,Y,Alex,Smith,36 Pinewood Avenue,,London,NW2 3SY
+4,ORD_001,14-02-2022,Chocolate Ice Cream,Dessert,Regular,6,2,Y,Alex,Smith,37 Pinewood Avenue,,London,NW2 3SY
+5,ORD_001,14-02-2022,Coca Cola,Drink,1.5L,4,1,Y,Alex,Smith,38 Pinewood Avenue,,London,NW2 3SY
